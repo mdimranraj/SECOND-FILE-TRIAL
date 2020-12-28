@@ -7,3 +7,6 @@ cin>>a>>b;
 sum= a + b;
 cout<<sum;
 }
+
+Now i am checking the code through the website. Everything looks fine.
+Semicolon and variable declarations were not required.
